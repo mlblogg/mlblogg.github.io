@@ -1,4 +1,4 @@
-baseURL = "http://mlblogg.github.io/"
+baseURL = "https://mlblogg.github.io/"
 languageCode = "en-us"
 title = "mlblogg"
 theme = "ezhil"
