@@ -16,6 +16,7 @@ disqusShortname = "ezhil-demo"
 summaryLength = 20
 
 [params]
+  favicon = "icons/favicon.ico"
 	subtitle = "Hi, I'm Jon sharing my journey of learning ML/AI."
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
@@ -78,3 +79,5 @@ url = "https://github.com/mlblogg"
     noHl = false
     style = 'pygments'
     tabWidth = 4
+
+    
