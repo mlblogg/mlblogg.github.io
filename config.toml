@@ -6,7 +6,7 @@ paginate = 5
 
 copyright = "© Copyright notice"
 
-pygmentsstyle = "solarized-dark"
+pygmentsstyle = "solarized-light"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
@@ -63,3 +63,18 @@ url = "https://github.com/mlblogg"
 
 [taxonomies]
    tag = "tags"
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'pygments'
+    tabWidth = 4
